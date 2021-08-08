@@ -12,10 +12,7 @@
         <!--fonts-->
         <link href="lib/line-icons/line-icons.css" rel="stylesheet">
         <link href="lib/font-awesome/css/fontawesome-all.min.css" rel="stylesheet">
-        <link href="lib/chartist/chartist.min.css" rel="stylesheet" />
-        <link href="css/chartist-custom.css" rel="stylesheet" />
-        <!-- jvectormap -->
-        <link href="lib/vector-map/jquery-jvectormap-2.0.2.css" rel="stylesheet" />
+
         <link href="css/style.css" rel="stylesheet">
         
         <link href="lib/dt-picker/jquery.datetimepicker.min.css" rel="stylesheet">
