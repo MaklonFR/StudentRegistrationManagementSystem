@@ -10,6 +10,9 @@ Steps to install the application:
 6. Open your browser and type the url address: http://localhost/new_student_registration_php_javascript_ajax_html_css
 7. Good luck
 
+Link Yotube Testing:
+https://www.youtube.com/watch?v=ya6ldshIIrA&t=5s
+
 
 My Project Web on Publish:
 https://www.smkn1kuwus.sch.id/
