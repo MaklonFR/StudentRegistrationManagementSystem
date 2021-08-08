@@ -11,3 +11,9 @@ Steps to install the application:
 7. Good luck
 
 
+My Project Web on Publish:
+https://www.smkn1kuwus.sch.id/
+https://disporakotakupang.com/
+https://lspsmkn1kupang.com/
+
+
