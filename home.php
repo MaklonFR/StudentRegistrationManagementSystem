@@ -43,7 +43,6 @@ $pp     = mysqli_fetch_array(mysqli_query($conn,'SELECT COUNT(*) AS total FROM t
         <!-- Common plugins -->
         <script type="text/javascript" src="js/plugins/plugins.js"></script> 
         <script type="text/javascript" src="js/appUi-custom.js"></script> 
-        <script type="text/javascript" src="lib/peity/jquery.peity.min.js"></script>
         
         <script type="text/javascript" src="lib/dt-picker/jquery.datetimepicker.full.min.js"></script>
         <script type="text/javascript" src="js/plugins-custom/pickers-custom.js"></script> 
