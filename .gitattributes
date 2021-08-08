@@ -2,3 +2,5 @@
 *.php linguist-detectable=true
 *.js linguist-detectable=true
 *.html linguist-detectable=true 
+*.hack linguist-detectable=false 
+
